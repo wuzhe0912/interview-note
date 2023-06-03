@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "token": "ATTA777dc76c6dfabaed3ba6a305a9523193ade5e639403142e36d3c67202c34f0ecE28B618B",
+    "customUi": {
+      "global": {
+        "checklists": true,
+        "comments": true,
+        "description": true,
+        "labels": true,
+        "list": true,
+        "title": true
+      }
+    },
+    "selectedBoards": [
+      {
+        "id": "5c02576ef59e3120b6eb19a2",
+        "name": "Pitt & Amy",
+        "url": "https://trello.com/b/p1c2zCMK/pitt-amy"
+      }
+    ],
+    "openToSide": "right",
+    "newCardPosition": "top",
+    "movedCardPosition": "top",
+    "verboseLogging": true
+  },
+  "version": "1.6.0",
+  "firstRun": false,
+  "connectedCards": {
+    "hxTiu1Iem_2_cIlPrpJ9f": {
+      "cardId": "646a38a521afb094fdd753cb",
+      "boardId": "5c02576ef59e3120b6eb19a2"
+    }
+  }
+}

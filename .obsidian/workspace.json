@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "0a6be280d42c4ff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ed764f7fd2cbcbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fd1b9a184885131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-06-03.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25ff858c3a853863",
+    "type": "split",
+    "children": [
+      {
+        "id": "6973d76cc71454eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82d31aa58d79aa58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "58d5538022e1a450",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "828bb666fa06cb55",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "fdd972fda25a856c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73b952c54c7ee504",
+    "type": "split",
+    "children": [
+      {
+        "id": "3207f13fa01293d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3528ba85b5750e2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2023-06-03.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7adf686378297a59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2023-06-03.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e47e2a65352b2209",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "69cf0bacffcb4ac3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2023-06-03.md"
+              }
+            }
+          },
+          {
+            "id": "a905451d5ce47fca",
+            "type": "leaf",
+            "state": {
+              "type": "trello-plugin",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "4fd1b9a184885131",
+  "lastOpenFiles": [
+    "Daily/2023-06-03.md",
+    "未命名.md",
+    "Daily/2023-06-01.md",
+    "Daily",
+    "未命名 1.md",
+    "README.md",
+    "2022-08-07.md"
+  ]
+}
