@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "21dca79094b6b845",
+        "id": "5a3f71e1bd8d50d7",
         "type": "tabs",
         "children": [
           {
-            "id": "8b91b53a91f3a650",
+            "id": "bf41da476f8d1718",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview-Questions/Neutec-Company-2023-08-28.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview-Questions/Neutec-Company-2023-08-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview-Questions/Neutec-Company-2023-08-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Interview-Questions/Neutec-Company-2023-08-28.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,20 +155,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b91b53a91f3a650",
+  "active": "bf41da476f8d1718",
   "lastOpenFiles": [
-    "Interview-Questions/Neutec-Company-2023-08-27.md",
+    "Prompts/Vue3-TS.md",
+    "Prompts/Vue-TS.md",
+    "Prompts",
     "Interview-Questions/Neutec-Company-2023-08-28.md",
+    "Interview-Questions",
+    "Daily/2023-06-03.md",
+    "Daily",
+    "README.md",
+    "Company-Work/SinCheng/index.md",
+    "Company-Work/SanGaneshaInc/index.md",
+    "Company-Work/SanGaneshaInc/FE-329.md",
+    "Company-Work/SinCheng",
+    "Company-Work/SanGaneshaInc",
+    "Company-Work",
+    "Interview-Questions/Neutec-Company-2023-08-27.md",
     "Neutec-Company(日新軟體).md",
     "Interview-Questions/Neutec-Company(日新軟體).md",
-    "Interview-Questions",
     "Daily/2023-08-07.md",
     "Daily/2023-08-21.md",
-    "Daily/2023-06-03.md",
     "Daily/2023-06-01.md",
-    "Daily",
     "未命名 1.md",
-    "README.md",
     "2022-08-07.md"
   ]
 }
